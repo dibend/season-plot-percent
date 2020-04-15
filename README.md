@@ -1,4 +1,4 @@
-# season-plot
+# season-plot-percent
 
 Plot percent change from first trading day each year of trading days to find seasonality.
 
